@@ -5,7 +5,7 @@
 const APP_CONFIG = {
   // true  -> Exibe o botão de "Entrar" e permite gerenciar registros
   // false -> Desativa e esconde COMPLETAMENTE o painel administrativo em todas as telas
-  ENABLE_ADMIN: false,
+  ENABLE_ADMIN: true,
 
   // Senha padrão de acesso
   ADMIN_PASSWORD: 'demo@2026'
