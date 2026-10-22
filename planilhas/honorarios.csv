@@ -1,0 +1,37 @@
+Condominio,Siglas - Whats,Ativo / Inativo,Vencimento,Competencia,Honorários,Forma de envio boletos,Observações
+RESIDENCIAL JARDIM DAS ACÁCIAS,JARDIM,ATIVO,20,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,,
+EDIFÍCIO VISTA ALEGRE,VISTA,ATIVO,10,Mês Vigente,PADRÃO - 8% a partir do 6º dia de atraso e 15% a partir do 21º dia,E-mail,Enviar cópia ao síndico
+CONDOMÍNIO MONTE VERDE,MONTE,ATIVO,5,Mês Vigente,PADRÃO - 10% a partir do 11º dia de atraso e 20% a partir do 31º dia,E-mail,
+PARQUE ALTO DO PARQUE,ALTO,ATIVO,25,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,Impresso,Reajuste anual em janeiro
+RESIDENCIAL MAR AZUL,AZUL,ATIVO,20,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,E-mail,Enviar cópia ao síndico
+EDIFÍCIO PRAÇA DAS FLORES,PRACA,ATIVO,15,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,Impresso,Reajuste anual em janeiro
+CONDOMÍNIO QUINTA DO LAGO,QUINTA,ATIVO,25,Mês Vigente,PADRÃO - 10% a partir do 11º dia de atraso e 20% a partir do 31º dia,Impresso,
+PARQUE TERRA NOVA,TERRA,ATIVO,25,Mês Vigente,PADRÃO - 8% a partir do 6º dia de atraso e 15% a partir do 21º dia,E-mail,Isento no primeiro mês
+RESIDENCIAL RESERVA DO SOL,RESERVA,ATIVO,15,Mês Vigente,PADRÃO - 8% a partir do 6º dia de atraso e 15% a partir do 21º dia,Impresso,Enviar cópia ao síndico
+EDIFÍCIO IPÊ AMARELO,AMARELO,ATIVO,20,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,,
+CONDOMÍNIO BOA ESPERANÇA,ESPERANCA,ATIVO,10,Mês Vigente,PADRÃO - 8% a partir do 6º dia de atraso e 15% a partir do 21º dia,WhatsApp,
+PARQUE VILLA TOSCANA,VILLA,ATIVO,5,Mês Vigente,PADRÃO - 10% a partir do 11º dia de atraso e 20% a partir do 31º dia,WhatsApp,
+RESIDENCIAL TORRE NORTE,TORRE,ATIVO,15,Mês Vigente,PADRÃO - 10% a partir do 11º dia de atraso e 20% a partir do 31º dia,WhatsApp,Isento no primeiro mês
+EDIFÍCIO SOLAR DAS PALMEIRAS,SOLAR,ATIVO,20,Mês Vigente,PADRÃO - 8% a partir do 6º dia de atraso e 15% a partir do 21º dia,Impresso,Enviar cópia ao síndico
+CONDOMÍNIO BOSQUE DOS PÁSSAROS,BOSQUE,ATIVO,5,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,,
+PARQUE PORTO SEGURO,PORTO,ATIVO,20,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,Impresso,
+RESIDENCIAL COLINA VERDE,COLINA,ATIVO,10,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,,Isento no primeiro mês
+EDIFÍCIO ÁGUAS CLARAS,AGUAS,ATIVO,25,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,WhatsApp,
+CONDOMÍNIO RECANTO FELIZ,RECANTO,ATIVO,15,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,WhatsApp,
+PARQUE BELVEDERE,BELVEDERE,ATIVO,5,Mês Vigente,PADRÃO - 8% a partir do 6º dia de atraso e 15% a partir do 21º dia,WhatsApp,Enviar cópia ao síndico
+RESIDENCIAL PARQUE DAS NAÇÕES,NACOES,ATIVO,25,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,E-mail,Enviar cópia ao síndico
+EDIFÍCIO SANTA HELENA,SANTA,ATIVO,25,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,E-mail,
+CONDOMÍNIO MORADA DO VALE,MORADA,ATIVO,25,Mês Vigente,PADRÃO - 10% a partir do 11º dia de atraso e 20% a partir do 31º dia,WhatsApp,
+PARQUE CANTOS DO MAR,CANTOS,ATIVO,25,Mês Vigente,PADRÃO - 10% a partir do 11º dia de atraso e 20% a partir do 31º dia,Impresso,
+RESIDENCIAL HORIZONTE AZUL,HORIZONTE,ATIVO,20,Mês Vigente,PADRÃO - 10% a partir do 11º dia de atraso e 20% a partir do 31º dia,WhatsApp,
+EDIFÍCIO VILA SERENA,VILA,ATIVO,25,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,E-mail,Enviar cópia ao síndico
+CONDOMÍNIO FLOR DE LIS,FLOR,ATIVO,20,Mês Vigente,PADRÃO - 8% a partir do 6º dia de atraso e 15% a partir do 21º dia,WhatsApp,Reajuste anual em janeiro
+PARQUE ALAMEDA DOS IPÊS,ALAMEDA,ATIVO,25,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,,Isento no primeiro mês
+RESIDENCIAL MIRANTE DO SUL,MIRANTE,ATIVO,5,Mês Vigente,PADRÃO - 8% a partir do 6º dia de atraso e 15% a partir do 21º dia,Impresso,
+EDIFÍCIO LAGO SERENO,LAGO,ATIVO,5,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,Impresso,Isento no primeiro mês
+CONDOMÍNIO CEDRO REAL,CEDRO,INATIVO,-,Mês Vigente,PADRÃO - 8% a partir do 6º dia de atraso e 15% a partir do 21º dia,,
+PARQUE PRAIA BELA,PRAIA,INATIVO,-,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,,
+RESIDENCIAL CAMPO LARGO,CAMPO,INATIVO,-,Mês Vigente,PADRÃO - 10% a partir do 11º dia de atraso e 20% a partir do 31º dia,WhatsApp,
+EDIFÍCIO RIO CLARO,CLARO,INATIVO,-,Mês Vigente,ESPECIAL - 5% fixo após o vencimento,E-mail,Reajuste anual em janeiro
+CONDOMÍNIO JARDINS DE PROVENCE,JARDINS,INATIVO,-,Mês Vigente,PADRÃO - 8% a partir do 6º dia de atraso e 15% a partir do 21º dia,E-mail,
+PARQUE PARK IMPERIAL,PARK,INATIVO,-,Mês Vigente,PADRÃO - 10% a partir do 11º dia de atraso e 20% a partir do 31º dia,Impresso,
